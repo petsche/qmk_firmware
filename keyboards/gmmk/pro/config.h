@@ -36,6 +36,9 @@
 #define DIODE_DIRECTION COL2ROW
 
 
+/* For changing debounce if needed
+#define DEBOUNCE 5
+*/
 #define TAP_CODE_DELAY 10
 #define ENCODERS_PAD_A { C15 }
 #define ENCODERS_PAD_B { C14 }
