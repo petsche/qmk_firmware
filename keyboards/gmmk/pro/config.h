@@ -38,9 +38,9 @@
 #define BOOTMAGIC_LITE_ROW 1
 #define BOOTMAGIC_LITE_COLUMN 3
 
-/* For changing debounce if needed
-#define DEBOUNCE 5
-*/
+/* For changing debounce if needed */
+#define DEBOUNCE 6
+
 #define TAP_CODE_DELAY 10
 #define ENCODERS_PAD_A { C15 }
 #define ENCODERS_PAD_B { C14 }
